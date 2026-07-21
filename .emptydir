@@ -1,0 +1,3 @@
+# 占位文件
+# 用于验证 git push 链路通畅
+# 各 devroot 环境的 .gitignore/.gitattributes 为本地配置，不进入版本控制
